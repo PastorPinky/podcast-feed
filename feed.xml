@@ -1,0 +1,19 @@
+<rss version="2.0">
+  <channel>
+    <title>Words to Live By</title>
+    <link>https://www.dropbox.com/scl/fo/2s27rpwrxey2rbox7vskv/AIhR4RWkWLhMzP5UU6OzH90?rlkey=274aub2k6fb3q63nmogmeogls&st=bffz5spq&dl=1</link>
+    <description>These are audio files to help Greg Pinkston grow as a leader of himself and his team.</description>
+    <item>
+      <title>Words to Live By (Reader Version)</title>
+      <enclosure url="https://www.dropbox.com/scl/fi/3gvhh7myd5xsn6z1pzqwo/W2LB.mp3?rlkey=v4tj8mycmsw433rhoflukpaer&st=qyqre7hz&dl=1" type="audio/mpeg"/>
+      <description>Words to Live By, Read by Eleven Labs AI</description>
+      <pubDate>Wed, 01 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Applying Your Words</title>
+      <enclosure url="https://www.dropbox.com/scl/fi/de7clv699kk4f4r4ghgfv/Application.mp3?rlkey=od8xc6rfpbq97b3mfwpkwatl0&st=6hopvlbv&dl=1" type="audio/mpeg"/>
+      <description>A podcast discussing applying your Words to Live By</description>
+      <pubDate>Thu, 02 Jan 2025 12:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

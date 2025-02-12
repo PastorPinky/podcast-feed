@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtd/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtd/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcasters.google.com/podcast-schema/v1"
+     version="2.0">
+  
   <channel>
     <title>Words to Live By</title>
     <link>https://www.yourwebsite.com</link>
     <description>A podcast about living with purpose and values in family and work.</description>
     <language>en-us</language>
     <itunes:category text="Education"/>
-    <itunes:image href="https://www.dropbox.com/scl/fi/vbsm5nt3np9obgrclv4el/Words-to-Live-By-Album-Art.jpg?rlkey=4rz4kllgg93ahm1665eq5pfxv&dl=1" />
-    
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://www.dropbox.com/s/vbsm5nt3np9obgrclv4el/Words-to-Live-By-Album-Art.jpg?dl=1" />
+    <atom:link rel="self" href="https://raw.githubusercontent.com/yourusername/yourrepository/main/feed.xml" />
+    <author>Your Name</author>
+
     <!-- Episode 1 -->
     <item>
       <title>Words to Live By - Episode 1: Words to Live By</title>
@@ -15,6 +22,8 @@
       <guid>https://www.dropbox.com/scl/fi/xzkcww1ut7k3v2gkjxs1r/01-Words-to-Live-By.mp3?rlkey=qcti7yx5syi6dqtanmnjhcupi&raw=1</guid>
       <pubDate>Mon, 12 Feb 2025 00:00:00 GMT</pubDate>
       <itunes:duration>15:00</itunes:duration>
+      <itunes:author>Your Name</itunes:author>
+      <description>A deep dive into the principles of living with purpose.</description>
       <enclosure url="https://www.dropbox.com/scl/fi/xzkcww1ut7k3v2gkjxs1r/01-Words-to-Live-By.mp3?rlkey=qcti7yx5syi6dqtanmnjhcupi&raw=1" type="audio/mpeg" />
     </item>
     
@@ -25,6 +34,8 @@
       <guid>https://www.dropbox.com/scl/fi/gh1bkldjmpfsh0awd220m/02-Living-the-Six-Words-Family.m4a?rlkey=eqh3t20oo65ty1143wohzh7wi&raw=1</guid>
       <pubDate>Mon, 19 Feb 2025 00:00:00 GMT</pubDate>
       <itunes:duration>18:30</itunes:duration>
+      <itunes:author>Your Name</itunes:author>
+      <description>How to live out your core values in family life.</description>
       <enclosure url="https://www.dropbox.com/scl/fi/gh1bkldjmpfsh0awd220m/02-Living-the-Six-Words-Family.m4a?rlkey=eqh3t20oo65ty1143wohzh7wi&raw=1" type="audio/mp4" />
     </item>
 
@@ -35,6 +46,8 @@
       <guid>https://www.dropbox.com/scl/fi/65pienaf5n9qt1ort4igg/03-Living-the-Six-Words-Work.m4a?rlkey=g0ihvr1d5zsasxj28hgaqb2s1&raw=1</guid>
       <pubDate>Mon, 26 Feb 2025 00:00:00 GMT</pubDate>
       <itunes:duration>20:00</itunes:duration>
+      <itunes:author>Your Name</itunes:author>
+      <description>Balancing work values with personal integrity.</description>
       <enclosure url="https://www.dropbox.com/scl/fi/65pienaf5n9qt1ort4igg/03-Living-the-Six-Words-Work.m4a?rlkey=g0ihvr1d5zsasxj28hgaqb2s1&raw=1" type="audio/mp4" />
     </item>
 

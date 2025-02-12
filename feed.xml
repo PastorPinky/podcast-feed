@@ -1,19 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
     <title>Words to Live By</title>
-    <link>https://www.dropbox.com/scl/fo/2s27rpwrxey2rbox7vskv/AIhR4RWkWLhMzP5UU6OzH90?rlkey=274aub2k6fb3q63nmogmeogls&st=bffz5spq&dl=1</link>
-    <description>These are audio files to help Greg Pinkston grow as a leader of himself and his team.</description>
+    <link>https://www.yourwebsite.com</link>
+    <description>A podcast about living with purpose and values in family and work.</description>
+    <language>en-us</language>
+    <itunes:category text="Education"/>
+    <itunes:image href="https://www.dropbox.com/scl/fi/vbsm5nt3np9obgrclv4el/Words-to-Live-By-Album-Art.jpg?rlkey=4rz4kllgg93ahm1665eq5pfxv&raw=1" />
+    
+    <!-- Episode 1 -->
     <item>
-      <title>Words to Live By (Reader Version)</title>
-      <enclosure url="https://www.dropbox.com/scl/fi/3gvhh7myd5xsn6z1pzqwo/W2LB.mp3?rlkey=v4tj8mycmsw433rhoflukpaer&st=qyqre7hz&dl=1" type="audio/mpeg"/>
-      <description>Words to Live By, Read by Eleven Labs AI</description>
-      <pubDate>Wed, 01 Jan 2025 12:00:00 +0000</pubDate>
+      <title>Words to Live By - Episode 1: Words to Live By</title>
+      <link>https://www.dropbox.com/scl/fi/xzkcww1ut7k3v2gkjxs1r/01-Words-to-Live-By.mp3?rlkey=qcti7yx5syi6dqtanmnjhcupi&raw=1</link>
+      <guid>https://www.dropbox.com/scl/fi/xzkcww1ut7k3v2gkjxs1r/01-Words-to-Live-By.mp3?rlkey=qcti7yx5syi6dqtanmnjhcupi&raw=1</guid>
+      <pubDate>Mon, 12 Feb 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>15:00</itunes:duration>
+      <enclosure url="https://www.dropbox.com/scl/fi/xzkcww1ut7k3v2gkjxs1r/01-Words-to-Live-By.mp3?rlkey=qcti7yx5syi6dqtanmnjhcupi&raw=1" type="audio/mpeg" />
     </item>
+    
+    <!-- Episode 2 -->
     <item>
-      <title>Applying Your Words</title>
-      <enclosure url="https://www.dropbox.com/scl/fi/de7clv699kk4f4r4ghgfv/Application.mp3?rlkey=od8xc6rfpbq97b3mfwpkwatl0&st=6hopvlbv&dl=1" type="audio/mpeg"/>
-      <description>A podcast discussing applying your Words to Live By</description>
-      <pubDate>Thu, 02 Jan 2025 12:00:00 +0000</pubDate>
+      <title>Words to Live By - Episode 2: Living the Six Words - Family</title>
+      <link>https://www.dropbox.com/scl/fi/gh1bkldjmpfsh0awd220m/02-Living-the-Six-Words-Family.m4a?rlkey=eqh3t20oo65ty1143wohzh7wi&raw=1</link>
+      <guid>https://www.dropbox.com/scl/fi/gh1bkldjmpfsh0awd220m/02-Living-the-Six-Words-Family.m4a?rlkey=eqh3t20oo65ty1143wohzh7wi&raw=1</guid>
+      <pubDate>Mon, 19 Feb 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>18:30</itunes:duration>
+      <enclosure url="https://www.dropbox.com/scl/fi/gh1bkldjmpfsh0awd220m/02-Living-the-Six-Words-Family.m4a?rlkey=eqh3t20oo65ty1143wohzh7wi&raw=1" type="audio/mp4" />
     </item>
+
+    <!-- Episode 3 -->
+    <item>
+      <title>Words to Live By - Episode 3: Living the Six Words - Work</title>
+      <link>https://www.dropbox.com/scl/fi/65pienaf5n9qt1ort4igg/03-Living-the-Six-Words-Work.m4a?rlkey=g0ihvr1d5zsasxj28hgaqb2s1&raw=1</link>
+      <guid>https://www.dropbox.com/scl/fi/65pienaf5n9qt1ort4igg/03-Living-the-Six-Words-Work.m4a?rlkey=g0ihvr1d5zsasxj28hgaqb2s1&raw=1</guid>
+      <pubDate>Mon, 26 Feb 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>20:00</itunes:duration>
+      <enclosure url="https://www.dropbox.com/scl/fi/65pienaf5n9qt1ort4igg/03-Living-the-Six-Words-Work.m4a?rlkey=g0ihvr1d5zsasxj28hgaqb2s1&raw=1" type="audio/mp4" />
+    </item>
+
   </channel>
 </rss>
